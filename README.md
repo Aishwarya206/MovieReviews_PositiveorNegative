@@ -7,7 +7,7 @@ Procedure:
 Used flask for interface and deployed on Heroku.
 
 Data Source link:
-https://github.com/Aishwarya206/MovieReview_PositiveorNegative/blob/main/moviereviews.csv
+https://github.com/Aishwarya206/MovieReviews_PositiveorNegative/blob/main/moviereviews.csv
 
 Output screenshots:
 
