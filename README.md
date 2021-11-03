@@ -1,5 +1,3 @@
-# MovieReview_PositiveorNegative
-
 Objective:
 To predict whether the movie review entered by the user is a positive review or a negative review.
 
